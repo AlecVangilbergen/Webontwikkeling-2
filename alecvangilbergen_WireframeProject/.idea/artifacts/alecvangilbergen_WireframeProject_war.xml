@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="alecvangilbergen_WireframeProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>alecvangilbergen_WireframeProject</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="alecvangilbergen_WireframeProject-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="alecvangilbergen_WireframeProject:war exploded" />
+    </root>
+  </artifact>
+</component>
